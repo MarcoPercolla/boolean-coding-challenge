@@ -1,0 +1,75 @@
+body {
+    background-image: url(background.jpg);
+    background-size:cover;
+}
+.container {
+    width: 80%; 
+    margin: auto;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.606) ;
+    border-radius: 15px;
+    padding-bottom: 80px;
+    
+}
+
+.logo {
+    width: 200px;
+   
+}
+
+.slogan {
+    font-size: 30px;
+    color:rgb(26, 196, 26);
+}
+
+header {
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+nav {
+text-align: center;
+width:80%;
+margin:auto;
+background-color: rgb(26, 196, 26);
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+main {
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    color: white;
+}
+
+.batteria1 {
+    height: 20px;
+    width: 300px;
+    background-color: rgb(220, 184, 4);
+    border-radius: 5px;
+    
+    
+}
+.batteria2 {
+    height: 20px;
+    width: 400px;
+    background-color: rgb(26, 196, 26);
+    border-radius: 5px;
+    
+    
+}
+.batteria3 {
+    height: 20px;
+    width: 200px;
+    background-color: red;
+    border-radius: 5px;    
+    
+}    
+.monopattino {
+    margin-bottom: 15px;
+}
+
+    
